@@ -11,22 +11,20 @@
         <thead>
             <tr>
                 <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>Address</th>
+                <th>Type</th>
+                <th>Phone Number</th>
+                <th>Website</th>
             </tr>
         </thead>
         <tfoot>
-            <tr>
+<!--             <tr>
                 <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
-            </tr>
+                <th>Address</th>
+                <th>Type</th>
+                <th>Phone Number</th>
+                <th>Website</th>
+            </tr> -->
         </tfoot>
     </table>
     
@@ -41,11 +39,10 @@
             "ajax": "empdata.js",
             "columns": [
                 {"data": "name"},
-                {"data": "designation"},
-                {"data": "office"},
-                {"data": "extension"},
-                {"data": "joining_date"},
-                {"data": "salary"}
+                {"data": "address"},
+                {"data": "type"},
+                {"data": "phone_number"},
+                {"data": "website"}
             ]
         });   
     });

@@ -1,123 +1,108 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <name>Cactus Southwest Kitchen and Bar</name>
+      <address>2506 N Proctor St Tacoma, Wa 98406</address>
+      <website>https://cactusrestaurants.com/location/proctor/</website>
+      <type>Southwestern</type>
+      <phone_number>253-458-9900</phone_number>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <name>Antique Sandwich Co.</name>
+      <address>5102 N Pearl St Tacoma, WA 98407</address>
+      <website>https://antiquesandwichcompany.com/</website>
+      <type>Sandwiches</type>
+      <phone_number>253-752-4069</phone_number>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <name>Cooks Tavern</name>
+      <address>3201 N 26th St, Tacoma, WA 98407</address>
+      <website>https://www.cookstavern.com/</website>
+      <type>Americana</type>
+      <phone_number>253-327-1777</phone_number>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <name>Brewers Row</name>
+      <address>3205 N 26th St, Tacoma, Washington 98407</address>
+      <website>https://brewersrowtacoma.com/</website>
+      <type>Mexican</type>
+      <phone_number>253-327-1757</phone_number>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <name>Matador</name>
+      <address>721 Pacific Ave, Tacoma, Washington 98402</address>
+      <website>https://matadorrestaurants.com/locations/tacoma</website>
+      <type>Mexican</type>
+      <phone_number>253-627-7100</phone_number>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <name>En Rama</name>
+      <address>1102 A Street Suite 220, Tacoma, Washington 98402</address>
+      <website>https://www.enramatacoma.com/</website>
+      <type>Italian</type>
+      <phone_number>253-223-7184</phone_number>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <name>Macaluso's Italian Restaurant</name>
+      <address>5101 N Pearl St, Ruston, WA 98407</address>
+      <website>https://www.lovinoristorante.com/</website>
+      <type>Italian</type>
+      <phone_number>253-267-1340</phone_number>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <name>Art House Café</name>
+      <address>111 N Tacoma Ave, Tacoma, WA 98403</address>
+      <website>https://www.arthousecafe.com/</website>
+      <type>Pacific Northwest</type>
+      <phone_number>253-212-2011</phone_number>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <name>Indo Asian Street Eatery</name>
+      <address>110 N Tacoma Ave, Tacoma, WA 98403</address>
+      <website>http://indostreeteatery.com/reservations</website>
+      <type>Southeast Asian</type>
+      <phone_number>253-503-3527</phone_number>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <name>Moshi Moshi</name>
+      <address>110B N Tacoma Ave, Tacoma, WA 98403</address>
+      <website>https://www.moshitacoma.com/</website>
+      <type>Ramen</type>
+      <phone_number>253-301-4688</phone_number>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <name>Dirty Oscar's Annex</name>
+      <address>2309 6th Ave, Tacoma, WA 98403</address>
+      <website>http://www.dirtyoscarsannex.com/</website>
+      <type>American</type>
+      <phone_number>253-572-0588</phone_number>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <name>WildFin American Grill</name>
+      <address>5115 Grand Loop, Tacoma, WA 98407</address>
+      <website>https://www.wildfinamericangrill.com/tacoma-restaurant/</website>
+      <type>Seafood</type>
+      <phone_number>253-267-1772</phone_number>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <name>Red Star Taco Bar</name>
+      <address>454 St Helens Ave, Tacoma, WA 98402</address>
+      <website>https://www.redstartacobar.com/</website>
+      <type>Mexican</type>
+      <phone_number>253-275-0550</phone_number>
     </data>
     <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
+      <name>The Pizza Press</name>
+      <address>2805 6th Ave Tacoma, WA 98406</address>
+      <website>https://www.thepizzapress.com/location/tacoma-wa/</website>
+      <type>Pizza</type>
+      <phone_number>253-212-0639</phone_number>
     </data>
     <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <name>Pacific Grill</name>
+      <address>1502 Pacific Ave, Tacoma, WA 98402</address>
+      <website>https://www.pacificgrilltacoma.com/</website>
+      <type>New American</type>
+      <phone_number>253-627-3535</phone_number>
     </data>
   </employees>

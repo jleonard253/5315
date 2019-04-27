@@ -1,124 +1,109 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "name": "Cactus Southwest Kitchen and Bar",
+      "address": "2506 N Proctor St Tacoma, Wa 98406",
+      "type": "Southwestern",
+      "phone_number": "253-458-9900",
+      "website": "https://cactusrestaurants.com/location/proctor/"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "name": "Antique Sandwich Co.",
+      "address": "5102 N Pearl St Tacoma, WA 98407",
+      "type": "Sandwiches",
+      "phone_number": "253-752-4069",
+      "website": "https://antiquesandwichcompany.com/"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "name": "Cooks Tavern",
+      "address": "3201 N 26th St, Tacoma, WA 98407",
+      "type": "Americana",
+      "phone_number": "253-327-1777",
+      "website": "https://www.cookstavern.com/"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "name": "Brewers Row",
+      "address": "3205 N 26th St, Tacoma, Washington 98407",
+      "type": "Mexican",
+      "phone_number": "253-327-1757",
+      "website": "https://brewersrowtacoma.com/"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "name": "Matador",
+      "address": "721 Pacific Ave, Tacoma, Washington 98402",
+      "type": "Mexican",
+      "phone_number": "253-627-7100",
+      "website": "https://matadorrestaurants.com/locations/tacoma"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "name": "En Rama",
+      "address": "1102 A Street Suite 220, Tacoma, Washington 98402",
+      "type": "Italian",
+      "phone_number": "253-223-7184",
+      "website": "https://www.enramatacoma.com/"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "name": "Macaluso's Italian Restaurant",
+      "address": "5101 N Pearl St, Ruston, WA 98407",
+      "type": "Italian",
+      "phone_number": "253-267-1340",
+      "website": "https://www.lovinoristorante.com/"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "name": "Art House Café",
+      "address": "111 N Tacoma Ave, Tacoma, WA 98403",
+      "type": "Pacific Northwest",
+      "phone_number": "253-212-2011",
+      "website": "https://www.arthousecafe.com/"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "name": "Indo Asian Street Eatery",
+      "address": "110 N Tacoma Ave, Tacoma, WA 98403",
+      "type": "Southeast Asian",
+      "phone_number": "253-503-3527",
+      "website": "http://indostreeteatery.com/reservations"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "name": "Moshi Moshi",
+      "address": "110B N Tacoma Ave, Tacoma, WA 98403",
+      "type": "Ramen",
+      "phone_number": "253-301-4688",
+      "website": "https://www.moshitacoma.com/"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "name": "Dirty Oscar's Annex",
+      "address": "2309 6th Ave, Tacoma, WA 98403",
+      "type": "American",
+      "phone_number": "253-572-0588",
+      "website": "http://www.dirtyoscarsannex.com/"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "name": "WildFin American Grill",
+      "address": "5115 Grand Loop, Tacoma, WA 98407",
+      "type": "Seafood",
+      "phone_number": "253-267-1772",
+      "website": "https://www.wildfinamericangrill.com/tacoma-restaurant/"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "name": "Red Star Taco Bar",
+      "address": "454 St Helens Ave, Tacoma, WA 98402",
+      "type": "Mexican",
+      "phone_number": "253-275-0550",
+      "website": "https://www.redstartacobar.com/"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "name": "The Pizza Press",
+      "address": "2805 6th Ave Tacoma, WA 98406",
+      "type": "Pizza",
+      "phone_number": "253-212-0639",
+      "website": "https://www.thepizzapress.com/location/tacoma-wa/"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "name": "Pacific Grill",
+      "address": "1502 Pacific Ave, Tacoma, WA 98402",
+      "type": "New American",
+      "phone_number": "253-627-3535",
+      "website": "https://www.pacificgrilltacoma.com/"
     }
   ]
 }
